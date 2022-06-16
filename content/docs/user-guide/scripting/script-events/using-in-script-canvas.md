@@ -44,7 +44,7 @@ You can handle an event by adding a **Receive** *method\_name* node to a Script 
 
 1. In the context menu, choose **Receive** *method\_name*.
 
-    ![Choose Receive method_name in the context menu.](/images/user-guide/scripting/script-events/using-in-script-canvas-4.png)
+    ![Choose Receive method_name in the context menu.](/images/user-guide/scripting/script-events/using-in-scipt-canvas-4.png)
 
     An event handler method node is added to the graph.
 
