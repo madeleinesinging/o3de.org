@@ -11,7 +11,7 @@ The **Entity Outliner** shows all the entities and prefabs in the level. You can
 
 1. In the Entity Outliner, you can create, select, search, and filter for entities.
 
-   ![Use the Entity Outliner to view all the entities in your level.](/images/editor/interface-entity-outliner.png)
+   ![Use the Entity Outliner to view all the entities in your level.](/images/user-guide/editor/interface-entity-outliner.png)
 
    You can select multiple entities by doing one of the following in the **Entity Outliner**:
    
